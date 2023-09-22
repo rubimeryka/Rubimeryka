@@ -26,4 +26,5 @@ Se quiser me seguir, cola aqui 🏃‍♀️:
 E se quiser entrar em contato, tenho dois emails 🗣️:
 
 eryka.rubim@hotmail.com
+
 erykarubim13@gmail.com
