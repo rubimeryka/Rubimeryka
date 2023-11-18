@@ -29,6 +29,4 @@ eryka.rubim@hotmail.com
 
 erykarubim13@gmail.com
 
-[![Rubimeryka's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubimeryka&show_icons=true&theme=tokyonight)](https://github.com/rubimeryka/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubimeryka&layout=compact&theme=tokyonight)](https://github.com/rubimeryka/github-readme-stats)
