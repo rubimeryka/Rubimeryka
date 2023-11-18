@@ -1,7 +1,7 @@
 ### Olá 👋
 
 Eu sou a **Eryka**, sou apaixonada por literatura, cinema e música (embora não saiba tocar nenhum instrumento 😢) e admiradora de tudo o que envolve criatividade. 
-Acima de qualquer coisa, sou uma curiosa crônica, e por isso, também, comecei a me aventurar na programação. Por isso, meu objetivo aqui é compartilhar o pouco que sei com as pessoas, e continuar aprendendo sempre. 👩‍💻 🚀
+Acima de qualquer coisa, sou uma curiosa crônica e, por isso, também, comecei a me aventurar na programação. Então, meu objetivo aqui é compartilhar o pouco que sei com as pessoas, e continuar aprendendo sempre. 👩‍💻 🚀
 
 Algumas ferramentas na minha caixinha 🛠️🧰:
 
